@@ -1,4 +1,7 @@
-id nhật vật
+ID NHÂN VẬT
+
+
+
       "characterId": 0,
       "characterName": "hy tomboy",
       "backgroundColor": "#45f248",
